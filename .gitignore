@@ -1,0 +1,10 @@
+*.project
+*.pydevproject
+*.pyc
+*.l
+.idea/
+build/
+data/
+dist/
+logicqubit.egg-info/
+venv/
